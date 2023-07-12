@@ -1,0 +1,12 @@
+beautifulsoup4
+selenium
+jsonlines
+python-dotenv
+
+# code formatting and linting
+black
+isort
+ruff
+mypy
+mypy-extensions
+types-beautifulsoup4
